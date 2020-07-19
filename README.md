@@ -1,3 +1,5 @@
+# 注意：此界面作为wiki副本，如需查看请前往>> [传送门](https://nflsedition.github.io/wiki/#/)
+```
 欢迎来到 南外手艺 Server ~
 
 wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/Kyomotoi/wiki)
@@ -22,4 +24,4 @@ wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[G
 ### 联系
 
  - 加入服务器主群 111967996
-
+```
